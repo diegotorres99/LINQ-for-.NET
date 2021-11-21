@@ -1,0 +1,15 @@
+C:\Users\Watek PC\source\repos\LINQ\json-object\obj\Debug\netcoreapp3.1\json-object.csprojAssemblyReference.cache
+C:\Users\Watek PC\source\repos\LINQ\json-object\obj\Debug\netcoreapp3.1\json-object.AssemblyInfoInputs.cache
+C:\Users\Watek PC\source\repos\LINQ\json-object\obj\Debug\netcoreapp3.1\json-object.AssemblyInfo.cs
+C:\Users\Watek PC\source\repos\LINQ\json-object\obj\Debug\netcoreapp3.1\json-object.csproj.CoreCompileInputs.cache
+C:\Users\Watek PC\source\repos\LINQ\json-object\bin\Debug\netcoreapp3.1\json-object.exe
+C:\Users\Watek PC\source\repos\LINQ\json-object\bin\Debug\netcoreapp3.1\json-object.deps.json
+C:\Users\Watek PC\source\repos\LINQ\json-object\bin\Debug\netcoreapp3.1\json-object.runtimeconfig.json
+C:\Users\Watek PC\source\repos\LINQ\json-object\bin\Debug\netcoreapp3.1\json-object.runtimeconfig.dev.json
+C:\Users\Watek PC\source\repos\LINQ\json-object\bin\Debug\netcoreapp3.1\json-object.dll
+C:\Users\Watek PC\source\repos\LINQ\json-object\bin\Debug\netcoreapp3.1\json-object.pdb
+C:\Users\Watek PC\source\repos\LINQ\json-object\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Watek PC\source\repos\LINQ\json-object\obj\Debug\netcoreapp3.1\json-object.csproj.CopyComplete
+C:\Users\Watek PC\source\repos\LINQ\json-object\obj\Debug\netcoreapp3.1\json-object.dll
+C:\Users\Watek PC\source\repos\LINQ\json-object\obj\Debug\netcoreapp3.1\json-object.pdb
+C:\Users\Watek PC\source\repos\LINQ\json-object\obj\Debug\netcoreapp3.1\json-object.genruntimeconfig.cache

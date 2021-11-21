@@ -1,0 +1,13 @@
+C:\Users\Watek PC\source\repos\LINQ\Operators-02\bin\Debug\netcoreapp3.1\Operators-02.exe
+C:\Users\Watek PC\source\repos\LINQ\Operators-02\bin\Debug\netcoreapp3.1\Operators-02.deps.json
+C:\Users\Watek PC\source\repos\LINQ\Operators-02\bin\Debug\netcoreapp3.1\Operators-02.runtimeconfig.json
+C:\Users\Watek PC\source\repos\LINQ\Operators-02\bin\Debug\netcoreapp3.1\Operators-02.runtimeconfig.dev.json
+C:\Users\Watek PC\source\repos\LINQ\Operators-02\bin\Debug\netcoreapp3.1\Operators-02.dll
+C:\Users\Watek PC\source\repos\LINQ\Operators-02\bin\Debug\netcoreapp3.1\Operators-02.pdb
+C:\Users\Watek PC\source\repos\LINQ\Operators-02\obj\Debug\netcoreapp3.1\Operators-02.csprojAssemblyReference.cache
+C:\Users\Watek PC\source\repos\LINQ\Operators-02\obj\Debug\netcoreapp3.1\Operators-02.AssemblyInfoInputs.cache
+C:\Users\Watek PC\source\repos\LINQ\Operators-02\obj\Debug\netcoreapp3.1\Operators-02.AssemblyInfo.cs
+C:\Users\Watek PC\source\repos\LINQ\Operators-02\obj\Debug\netcoreapp3.1\Operators-02.csproj.CoreCompileInputs.cache
+C:\Users\Watek PC\source\repos\LINQ\Operators-02\obj\Debug\netcoreapp3.1\Operators-02.dll
+C:\Users\Watek PC\source\repos\LINQ\Operators-02\obj\Debug\netcoreapp3.1\Operators-02.pdb
+C:\Users\Watek PC\source\repos\LINQ\Operators-02\obj\Debug\netcoreapp3.1\Operators-02.genruntimeconfig.cache

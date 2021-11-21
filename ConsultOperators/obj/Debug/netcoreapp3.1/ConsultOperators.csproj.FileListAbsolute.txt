@@ -1,0 +1,12 @@
+C:\Users\Watek PC\source\repos\LINQ\ConsultOperators\bin\Debug\netcoreapp3.1\ConsultOperators.exe
+C:\Users\Watek PC\source\repos\LINQ\ConsultOperators\bin\Debug\netcoreapp3.1\ConsultOperators.deps.json
+C:\Users\Watek PC\source\repos\LINQ\ConsultOperators\bin\Debug\netcoreapp3.1\ConsultOperators.runtimeconfig.json
+C:\Users\Watek PC\source\repos\LINQ\ConsultOperators\bin\Debug\netcoreapp3.1\ConsultOperators.runtimeconfig.dev.json
+C:\Users\Watek PC\source\repos\LINQ\ConsultOperators\bin\Debug\netcoreapp3.1\ConsultOperators.dll
+C:\Users\Watek PC\source\repos\LINQ\ConsultOperators\bin\Debug\netcoreapp3.1\ConsultOperators.pdb
+C:\Users\Watek PC\source\repos\LINQ\ConsultOperators\obj\Debug\netcoreapp3.1\ConsultOperators.AssemblyInfoInputs.cache
+C:\Users\Watek PC\source\repos\LINQ\ConsultOperators\obj\Debug\netcoreapp3.1\ConsultOperators.AssemblyInfo.cs
+C:\Users\Watek PC\source\repos\LINQ\ConsultOperators\obj\Debug\netcoreapp3.1\ConsultOperators.csproj.CoreCompileInputs.cache
+C:\Users\Watek PC\source\repos\LINQ\ConsultOperators\obj\Debug\netcoreapp3.1\ConsultOperators.dll
+C:\Users\Watek PC\source\repos\LINQ\ConsultOperators\obj\Debug\netcoreapp3.1\ConsultOperators.pdb
+C:\Users\Watek PC\source\repos\LINQ\ConsultOperators\obj\Debug\netcoreapp3.1\ConsultOperators.genruntimeconfig.cache

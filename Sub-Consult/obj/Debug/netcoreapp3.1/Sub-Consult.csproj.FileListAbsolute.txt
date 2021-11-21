@@ -1,0 +1,12 @@
+C:\Users\Watek PC\source\repos\LINQ\Sub-Consult\bin\Debug\netcoreapp3.1\Sub-Consult.exe
+C:\Users\Watek PC\source\repos\LINQ\Sub-Consult\bin\Debug\netcoreapp3.1\Sub-Consult.deps.json
+C:\Users\Watek PC\source\repos\LINQ\Sub-Consult\bin\Debug\netcoreapp3.1\Sub-Consult.runtimeconfig.json
+C:\Users\Watek PC\source\repos\LINQ\Sub-Consult\bin\Debug\netcoreapp3.1\Sub-Consult.runtimeconfig.dev.json
+C:\Users\Watek PC\source\repos\LINQ\Sub-Consult\bin\Debug\netcoreapp3.1\Sub-Consult.dll
+C:\Users\Watek PC\source\repos\LINQ\Sub-Consult\bin\Debug\netcoreapp3.1\Sub-Consult.pdb
+C:\Users\Watek PC\source\repos\LINQ\Sub-Consult\obj\Debug\netcoreapp3.1\Sub-Consult.AssemblyInfoInputs.cache
+C:\Users\Watek PC\source\repos\LINQ\Sub-Consult\obj\Debug\netcoreapp3.1\Sub-Consult.AssemblyInfo.cs
+C:\Users\Watek PC\source\repos\LINQ\Sub-Consult\obj\Debug\netcoreapp3.1\Sub-Consult.csproj.CoreCompileInputs.cache
+C:\Users\Watek PC\source\repos\LINQ\Sub-Consult\obj\Debug\netcoreapp3.1\Sub-Consult.dll
+C:\Users\Watek PC\source\repos\LINQ\Sub-Consult\obj\Debug\netcoreapp3.1\Sub-Consult.pdb
+C:\Users\Watek PC\source\repos\LINQ\Sub-Consult\obj\Debug\netcoreapp3.1\Sub-Consult.genruntimeconfig.cache

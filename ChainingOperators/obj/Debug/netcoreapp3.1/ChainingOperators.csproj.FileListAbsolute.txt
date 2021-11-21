@@ -1,0 +1,13 @@
+C:\Users\Watek PC\source\repos\LINQ\ChainingOperators\bin\Debug\netcoreapp3.1\ChainingOperators.exe
+C:\Users\Watek PC\source\repos\LINQ\ChainingOperators\bin\Debug\netcoreapp3.1\ChainingOperators.deps.json
+C:\Users\Watek PC\source\repos\LINQ\ChainingOperators\bin\Debug\netcoreapp3.1\ChainingOperators.runtimeconfig.json
+C:\Users\Watek PC\source\repos\LINQ\ChainingOperators\bin\Debug\netcoreapp3.1\ChainingOperators.runtimeconfig.dev.json
+C:\Users\Watek PC\source\repos\LINQ\ChainingOperators\bin\Debug\netcoreapp3.1\ChainingOperators.dll
+C:\Users\Watek PC\source\repos\LINQ\ChainingOperators\bin\Debug\netcoreapp3.1\ChainingOperators.pdb
+C:\Users\Watek PC\source\repos\LINQ\ChainingOperators\obj\Debug\netcoreapp3.1\ChainingOperators.csprojAssemblyReference.cache
+C:\Users\Watek PC\source\repos\LINQ\ChainingOperators\obj\Debug\netcoreapp3.1\ChainingOperators.AssemblyInfoInputs.cache
+C:\Users\Watek PC\source\repos\LINQ\ChainingOperators\obj\Debug\netcoreapp3.1\ChainingOperators.AssemblyInfo.cs
+C:\Users\Watek PC\source\repos\LINQ\ChainingOperators\obj\Debug\netcoreapp3.1\ChainingOperators.csproj.CoreCompileInputs.cache
+C:\Users\Watek PC\source\repos\LINQ\ChainingOperators\obj\Debug\netcoreapp3.1\ChainingOperators.dll
+C:\Users\Watek PC\source\repos\LINQ\ChainingOperators\obj\Debug\netcoreapp3.1\ChainingOperators.pdb
+C:\Users\Watek PC\source\repos\LINQ\ChainingOperators\obj\Debug\netcoreapp3.1\ChainingOperators.genruntimeconfig.cache
